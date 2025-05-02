@@ -7,6 +7,7 @@ public class CreateContact {
 	@Test
 	public void createCon() {
 		Reporter.log("Con created", true);
+		System.out.println("pushing to Github");
 	}
 	@Test
 	public void deleteCon() {
