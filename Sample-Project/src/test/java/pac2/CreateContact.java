@@ -12,6 +12,7 @@ public class CreateContact {
 	@Test
 	public void deleteCon() {
 		Reporter.log("Con deleted", true);
+		System.out.println("new changes");
 	}
 
 	
