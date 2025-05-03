@@ -12,10 +12,7 @@ public class CreateOrg {
 	public void deleteOrg() {
 		Reporter.log("Org deleted", true);
 		System.out.println("changed");
-		System.out.println("again changed");
-		System.err.println("::::::::");
-		System.out.println("AE2 did changes");
-		System.out.println("bhai");
+		
 	}
 
 }
