@@ -10,8 +10,15 @@ public class CreateOrg {
 	}
 	@Test
 	public void deleteOrg() {
-		Reporter.log("Org deleted", true);	
+		Reporter.log("Org is deleted", true);	
+		
 
 	}
+	@Test
+	public void modifyOrg() {
+		Reporter.log("Org is modified", true);	
+		
 
+	}
+	
 }
