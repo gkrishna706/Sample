@@ -15,8 +15,19 @@ public class CreateOrg {
 	@Test
 	public void modifyOrg() {
 		Reporter.log("Org is modified", true);	
-		
-
+	}
+	
+	@Test
+	public void createOrgWithContact() {
+		Reporter.log("Org is created with contact", true);	
 	}
 	
 }
+
+
+
+
+
+
+
+
